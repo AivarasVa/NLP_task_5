@@ -1,2 +1,6 @@
 data_cleaned.csv
 data.csv
+*.npy
+*.npz
+__pycache__/
+.ipynb_checkpoints/
